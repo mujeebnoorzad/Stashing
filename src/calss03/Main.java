@@ -9,5 +9,8 @@ public class Main {
         car.Headlights="blue";
         car.regNo="tuzik";
 
+        System.out.println("Welcome to my car");
+        System.out.println(" the radio is set to 80MHZ");
+        System.out.println("turn on the air conditioner");
     }
 }
